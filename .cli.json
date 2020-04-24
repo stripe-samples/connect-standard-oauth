@@ -1,6 +1,6 @@
 {
   "name": "connect-standard-oauth",
-  "configureDotEnv": true,
+  "configureDotEnv": false,
   "integrations": [
     {
       "name": "main",
