@@ -3,11 +3,6 @@
 This Stripe sample shows you how to create a Connect [Standard account](https://stripe.com/docs/connect/standard-accounts) using OAuth.
 This is the first step if you want to [enable other businesses to accept payments directly](https://stripe.com/docs/connect/enable-payment-acceptance-guide).
 
-Demo url: https://ixfyh.sse.codesandbox.io/
-
-Sandbox url: https://codesandbox.io/s/connect-standard-oauth-ixfyh?file=/client/css/global.css
-(note: the Connect link won't work in the inline browser on codesandbox.io)
-
 ![demo](.readme/screenshot.png)
 
 ## How to run locally
